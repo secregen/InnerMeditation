@@ -14,14 +14,17 @@
       </span>
 
       <div class="trigger">
-        {% for my_page in site.html_pages %}
+        <!-- {% for my_page in site.html_pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
+        <a class="page-link" href="/event/">Event</a>
+        <a class="page-link" href="/spirituality/">Spirituality</a>
+        <a class="page-link" href="/resource/">Resource</a>
       </div>
-    </nav>
 
+    </nav>
   </div>
 
 </header>
