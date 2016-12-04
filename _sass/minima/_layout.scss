@@ -68,13 +68,11 @@
     .trigger {
       clear: both;
       display: none;
-      cursor: pointer;
     }
 
     &:hover .trigger {
       display: block;
       padding-bottom: 5px;
-      border: 1px solid $grey-color-light;
     }
 
     .page-link {
