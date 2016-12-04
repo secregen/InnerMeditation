@@ -68,10 +68,15 @@
 
     .trigger {
       clear: both;
-      //display: none;
+      display: none;
     }
 
     &:hover .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    &:active .trigger {
       display: block;
       padding-bottom: 5px;
     }
