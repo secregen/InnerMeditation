@@ -16,7 +16,7 @@
 title: Inner Meditation
 email: info@innermeditation.life
 description: > # this means to ignore newlines until "baseurl:"
-  A journey of inner meditation: from basics to enlightenment.
+  A journey of meditation: from basics to enlightenment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
