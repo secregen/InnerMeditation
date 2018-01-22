@@ -36,6 +36,12 @@ address {
   float: left;
 }
 
-.center {
+.centerText {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body {
   text-align: center;
 }
