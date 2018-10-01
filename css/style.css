@@ -191,7 +191,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-4 {
-    background: url(../images/tao-garden-01.jpg) no-repeat;
+    background: url(../images/Mantak-teach-05.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -201,12 +201,12 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-5 {
-    background: url(../images/Mantak-teach-08.jpg) no-repeat;
-    /* background-size: cover;
+    background: url(../images/group-01.jpg) no-repeat;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    -ms-background-size: cover; */
+    -ms-background-size: cover;
     background-attachment: fixed;
 }
 
