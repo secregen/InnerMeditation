@@ -162,17 +162,16 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-1 {
-    background: url(../images/bg1.jpg) no-repeat;
+    background: url(../images/Mantak-teach-01.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    background-attachment: fixed;
 }
 
 .banner-w3ls-2 {
-    background: url(../images/bg2.jpg) no-repeat;
+    background: url(../images/Mantak-teach-02.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -182,7 +181,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-3 {
-    background: url(../images/bg3.jpg) no-repeat;
+    background: url(../images/darkroom-01.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -192,7 +191,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-4 {
-    background: url(../images/bg1.jpg) no-repeat;
+    background: url(../images/tao-garden-01.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -202,12 +201,12 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 }
 
 .banner-w3ls-5 {
-    background: url(../images/bg2.jpg) no-repeat;
-    background-size: cover;
+    background: url(../images/Mantak-teach-08.jpg) no-repeat;
+    /* background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    -ms-background-size: cover;
+    -ms-background-size: cover; */
     background-attachment: fixed;
 }
 
@@ -300,6 +299,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     text-align: center;
     font-style: italic;
 }
+.text-purple,
 .w3l_header span {
     color:#a400fd;
     font-weight: 200;
@@ -336,7 +336,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 /*-- //services --*/
 /*-- choose --*/
 .choose{
-	background: url(../images/bg2.jpg) no-repeat;
+	background: url(../images/Mantak-teach-02.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -479,7 +479,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     margin: 4em 0 2em;
 }
 /*--flexisel--*/
-.flex-slider{	
+.flex-slider{
 	background:#222227;
 	padding: 70px 0 165px 0;
 }
@@ -545,7 +545,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .ser-info{color:#fff;}
 /*-- //testimonials --*/
 .testimonials {
-    background: url(../images/bg3.jpg)no-repeat center;
+    background: url(../images/darkroom-01.jpg)no-repeat center;
     background-size: cover;
 	background-attachment: fixed;
 }
@@ -735,7 +735,7 @@ a.facebook:hover {
 	font-size: 0.95em;
 }
 .banner-agile-1 {
-    background: url(../images/bg1.jpg) no-repeat;
+    background: url(../images/tar-garden-01.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -921,7 +921,7 @@ li.list-group-item1 {
 .label {
 	font-weight: 300 !important;
 	border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1495,7 +1495,7 @@ h4.modal-title {
 @media(max-width: 768px) {
   .banner-w3ls-1, .banner-w3ls-2, .banner-w3ls-3, .banner-w3ls-4, .banner-w3ls-5, .banner-agile {
     min-height: 520px;
-}  
+}
 .w3_agile_testimonials_grid_right {
     width: 97%;
 }
@@ -1503,7 +1503,7 @@ h4.modal-title {
 @media(max-width: 736px) {
   .banner-agile-1 {
     min-height: 270px;
-} 
+}
 .contact-fields-w3ls {
     margin-top: 1em;
 }
@@ -1525,7 +1525,7 @@ h4.modal-title {
 }
 }
 @media(max-width: 667px) {
-    
+
 }
 @media(max-width: 640px) {
 .banner-agile-1 {
@@ -1539,7 +1539,7 @@ h4.modal-title {
 }
 }
 @media(max-width: 600px) {
-   
+
 }
 @media(max-width: 568px) {
 .footer-grid:nth-child(2){
@@ -1608,7 +1608,7 @@ footer h3 {
 @media(max-width: 440px) {
   footer p {
     font-size: 14px;
-}  
+}
 .copyrightbottom p {
     font-size: 14px;
 }
@@ -1640,7 +1640,7 @@ p.card-text {
 @media(max-width: 414px) {
  .banner-agile-1 {
     min-height: 200px;
-}  
+}
 .w3_agile_testimonials_grid_right {
     padding: 1em 3em;
 }
@@ -1648,7 +1648,7 @@ p.card-text {
 @media(max-width: 384px) {
  .wthree_text {
     padding-top: 6.5em;
-}  
+}
 }
 @media(max-width: 375px) {
   .pager {
