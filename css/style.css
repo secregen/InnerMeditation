@@ -316,6 +316,10 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     padding: 55px 40px;
     box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.19);
 }
+.new_top_nobox {
+    /* padding: 55px 40px; */
+    box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);
+}
 .new_top h3 {
     font-size: 22px;
     letter-spacing: 1px;
@@ -347,6 +351,11 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .choose_top {
     padding: 55px 40px;
     box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.19);
+	background:#fff;
+}
+.choose_top_nobox {
+    /* padding: 55px 40px; */
+    box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);
 	background:#fff;
 }
 .choose_top h3 {
